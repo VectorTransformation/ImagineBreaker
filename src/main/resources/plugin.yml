@@ -1,0 +1,8 @@
+name: ${name}
+version: ${pluginVersion}
+main: imagineBreaker.system.ImagineBreaker
+description: "${description}"
+author: "${author}"
+website: "${website}"
+api-version: "${apiVersion}"
+depend: [ ProtocolLib ]
